@@ -1,0 +1,4 @@
+• Elimino algunos dropouts de las capas densas
+• Agrego regularización L2
+• Cambio de checkpoint por val_accuracy | mode = 'max'
+• cambio de nombre del filepath
