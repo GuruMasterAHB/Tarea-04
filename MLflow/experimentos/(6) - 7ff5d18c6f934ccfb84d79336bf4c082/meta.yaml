@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/175730794918612403/7ff5d18c6f934ccfb84d79336bf4c082/artifacts
+end_time: 1696311153609
+entry_point_name: ''
+experiment_id: '175730794918612403'
+lifecycle_stage: active
+run_id: 7ff5d18c6f934ccfb84d79336bf4c082
+run_name: casual-lynx-605
+run_uuid: 7ff5d18c6f934ccfb84d79336bf4c082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696309751812
+status: 3
+tags: []
+user_id: root

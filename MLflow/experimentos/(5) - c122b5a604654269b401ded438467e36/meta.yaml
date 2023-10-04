@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/197988808431511565/c122b5a604654269b401ded438467e36/artifacts
+end_time: 1696309174685
+entry_point_name: ''
+experiment_id: '197988808431511565'
+lifecycle_stage: active
+run_id: c122b5a604654269b401ded438467e36
+run_name: dashing-seal-561
+run_uuid: c122b5a604654269b401ded438467e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696307738616
+status: 3
+tags: []
+user_id: root

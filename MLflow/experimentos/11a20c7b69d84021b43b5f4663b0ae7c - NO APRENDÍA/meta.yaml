@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/344644173521175672/11a20c7b69d84021b43b5f4663b0ae7c/artifacts
+end_time: 1696313652515
+entry_point_name: ''
+experiment_id: '344644173521175672'
+lifecycle_stage: active
+run_id: 11a20c7b69d84021b43b5f4663b0ae7c
+run_name: salty-gull-850
+run_uuid: 11a20c7b69d84021b43b5f4663b0ae7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696313205027
+status: 4
+tags: []
+user_id: root

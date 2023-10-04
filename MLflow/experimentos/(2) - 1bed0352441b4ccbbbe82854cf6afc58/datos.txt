@@ -1,0 +1,25 @@
+val_accuracy = 0.7311
+
+Estructura:
+	Conv2D(50, (3,3))
+	Maxpooling(2,2)
+	dropout(0.5)
+
+	Conv2D(50, (3,3))
+	Maxpooling(2,2)
+	dropout(0.2)
+
+	Conv2D(50, (3,3))
+	Maxpooling(2,2)
+
+	Conv2D(50, (3,3))
+	Maxpooling(2,2)
+	dropout(0.1)
+
+	flatten
+	Dense(20)
+	dropout(0.2)
+	Dense(10)
+	dropout(0.1)
+	Dense(1)
+

@@ -1,0 +1,18 @@
+val_accracy = 0.7972
+
+
+Estructura:
+
+	Conv2D(50, (3,3), relu)
+	Maxpooling(2,2)
+
+	Conv2D(20, (3,3), relu)
+	Maxpooling(2,2)
+
+	Conv2D(10, (3,3), relu)
+	Maxpooling(2,2)
+
+	Flatten
+	Dense(20, relu)
+	Dense(10, relu)
+	Dense(1, sigmoid)

@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/195357931283492895/10ee5ae541584b2d9f5e886b6465ab14/artifacts
+end_time: 1696307362272
+entry_point_name: ''
+experiment_id: '195357931283492895'
+lifecycle_stage: active
+run_id: 10ee5ae541584b2d9f5e886b6465ab14
+run_name: angry-ray-669
+run_uuid: 10ee5ae541584b2d9f5e886b6465ab14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696305351769
+status: 3
+tags: []
+user_id: root

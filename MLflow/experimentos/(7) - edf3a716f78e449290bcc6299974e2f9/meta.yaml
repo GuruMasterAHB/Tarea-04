@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/157989855769129306/edf3a716f78e449290bcc6299974e2f9/artifacts
+end_time: 1696314398660
+entry_point_name: ''
+experiment_id: '157989855769129306'
+lifecycle_stage: active
+run_id: edf3a716f78e449290bcc6299974e2f9
+run_name: debonair-duck-975
+run_uuid: edf3a716f78e449290bcc6299974e2f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696313733945
+status: 3
+tags: []
+user_id: root

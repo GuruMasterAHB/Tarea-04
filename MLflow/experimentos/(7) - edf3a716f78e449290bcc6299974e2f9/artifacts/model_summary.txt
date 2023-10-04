@@ -1,0 +1,46 @@
+Model: "sequential_12"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ conv2d_47 (Conv2D)          (None, 148, 148, 50)      1400      
+                                                                 
+ activation_97 (Activation)  (None, 148, 148, 50)      0         
+                                                                 
+ max_pooling2d_47 (MaxPoolin  (None, 74, 74, 50)       0         
+ g2D)                                                            
+                                                                 
+ conv2d_48 (Conv2D)          (None, 72, 72, 20)        9020      
+                                                                 
+ activation_98 (Activation)  (None, 72, 72, 20)        0         
+                                                                 
+ max_pooling2d_48 (MaxPoolin  (None, 36, 36, 20)       0         
+ g2D)                                                            
+                                                                 
+ conv2d_49 (Conv2D)          (None, 34, 34, 10)        1810      
+                                                                 
+ activation_99 (Activation)  (None, 34, 34, 10)        0         
+                                                                 
+ max_pooling2d_49 (MaxPoolin  (None, 17, 17, 10)       0         
+ g2D)                                                            
+                                                                 
+ flatten_12 (Flatten)        (None, 2890)              0         
+                                                                 
+ dense_50 (Dense)            (None, 20)                57820     
+                                                                 
+ activation_100 (Activation)  (None, 20)               0         
+                                                                 
+ dropout_24 (Dropout)        (None, 20)                0         
+                                                                 
+ dense_51 (Dense)            (None, 10)                210       
+                                                                 
+ activation_101 (Activation)  (None, 10)               0         
+                                                                 
+ dense_52 (Dense)            (None, 1)                 11        
+                                                                 
+ activation_102 (Activation)  (None, 1)                0         
+                                                                 
+=================================================================
+Total params: 70,271
+Trainable params: 70,271
+Non-trainable params: 0
+_________________________________________________________________

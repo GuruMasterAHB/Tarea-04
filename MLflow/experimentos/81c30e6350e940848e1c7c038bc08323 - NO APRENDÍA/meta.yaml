@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/279764020272513770/81c30e6350e940848e1c7c038bc08323/artifacts
+end_time: 1696312175016
+entry_point_name: ''
+experiment_id: '279764020272513770'
+lifecycle_stage: active
+run_id: 81c30e6350e940848e1c7c038bc08323
+run_name: ambitious-duck-465
+run_uuid: 81c30e6350e940848e1c7c038bc08323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696311385784
+status: 4
+tags: []
+user_id: root

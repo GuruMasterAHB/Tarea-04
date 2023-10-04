@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/195357931283492895/95b62bafc9234aa2845212ac57450ff7/artifacts
+end_time: 1696305199159
+entry_point_name: ''
+experiment_id: '195357931283492895'
+lifecycle_stage: active
+run_id: 95b62bafc9234aa2845212ac57450ff7
+run_name: languid-crane-314
+run_uuid: 95b62bafc9234aa2845212ac57450ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696304312421
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/302613613858039658/1bed0352441b4ccbbbe82854cf6afc58/artifacts
+end_time: 1696318473276
+entry_point_name: ''
+experiment_id: '302613613858039658'
+lifecycle_stage: active
+run_id: 1bed0352441b4ccbbbe82854cf6afc58
+run_name: trusting-stork-190
+run_uuid: 1bed0352441b4ccbbbe82854cf6afc58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696316627281
+status: 3
+tags: []
+user_id: root
